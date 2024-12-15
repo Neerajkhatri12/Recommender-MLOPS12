@@ -4,8 +4,8 @@ numpy
 matplotlib
 scikit-learn
 
-scipy
 
+scipy
 
 python-box
 ensure
